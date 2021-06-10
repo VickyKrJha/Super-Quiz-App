@@ -28,6 +28,10 @@
 
 <img src="https://github.com/VickyKrJha/Super-Quiz-App/blob/main/screenshots/screenshot_1.png" height="600" width="300" hspace="40"><img src="https://github.com/VickyKrJha/Super-Quiz-App/blob/main/screenshots/screenshot_2.png" height="600" width="300" hspace="40">
 
+<img src="https://github.com/VickyKrJha/Super-Quiz-App/blob/main/screenshots/screenshot_3.png" height="600" width="300" hspace="40"><img src="https://github.com/VickyKrJha/Super-Quiz-App/blob/main/screenshots/screenshot_4.png" height="600" width="300" hspace="40">
+
+<img src="https://github.com/VickyKrJha/Super-Quiz-App/blob/main/screenshots/screenshot_5.png" height="600" width="300" hspace="40"><img src="https://github.com/VickyKrJha/Super-Quiz-App/blob/main/screenshots/screenshot_6.png" height="600" width="300" hspace="40">
+
 
 
 
